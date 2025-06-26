@@ -30,12 +30,12 @@ I enjoy working on projects involving **HTML, CSS, PHP, MySQL**, and recently st
 <br><br>
 
 
-- 🧠 I’m currently working on: a shopping website project called **Shopezy** and a **Roulette simulator** in Python  
-- 🌱 I’m currently learning: web development (HTML, CSS, PHP, MySQL), programming logic, and Fysikk 1 + Kjemi 1 📘⚗️  
-- 🤝 I’m looking to collaborate on: small student-level projects or challenges to build experience  
-- 🧠 I’m looking for help with: improving backend coding skills and writing clean, efficient code  
-- 💬 Ask me about: building login systems, cookies in PHP, and how to make simple websites  
-- 📫 How to reach me: through GitHub for now (more coming soon!)  
-- 😄 Pronouns: he/him  
+-  I’m currently working on: a shopping website project called **Shopezy** and a **Roulette simulator** in Python  
+-  I’m currently learning: web development (HTML, CSS, PHP, MySQL), programming logic, and Fysikk 1 + Kjemi 1 📘⚗️  
+-  I’m looking to collaborate on: small student-level projects or challenges to build experience  
+-  I’m looking for help with: improving backend coding skills and writing clean, efficient code  
+-  Ask me about: building login systems, cookies in PHP, and how to make simple websites  
+-  How to reach me: through GitHub for now (more coming soon!)  
+-  Pronouns: he/him  
 
-Thanks for visiting my profile! 😊
+
